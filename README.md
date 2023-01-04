@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am an iOS Developer. 
-I specialized in native iOS (Swift 🦅 & ObJ-C) and hybrid React Native ⚛️.
+I am an iOS developer with a passion for creating intuitive and high-quality apps. 
 
-Lived in the startup world as a software engineer since 2013 and am experienced in helping to develop apps for startups from scratch.
+My expertise lies in native iOS development using **Swift**🦅 and **Objective-C**, as well as **hybrid** development with **React Native**⚛️.. 
 
+Since 2013, I have had the opportunity to work in the startup world as a software engineer, where I have gained valuable experience in helping to develop and launch successful apps. 
 
-Currently working as iOS Developer for [Aleph Labs](https://aleph-labs.com)
+Currently, I am grateful to be working as an iOS developer at [Aleph Labs](https://aleph-labs.com), where I continue to learn and grow in my field.
 
 ## Connect with me
 
