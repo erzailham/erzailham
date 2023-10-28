@@ -12,5 +12,5 @@ Currently, I am grateful to be working as an iOS developer at [Aleph Labs](https
 
 - 🐦 Twitter: [@erzailham](https://twitter.com/erzailham)
 - 📷 Instagram: [@erzailham](https://instagram.com/erzailham)
-- 📰 Medium: [@erzailham](https://instagram.com/erzailham)
+- 📰 Medium: [@erzailham](https://medium.com/@erzailham)
 ---
